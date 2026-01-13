@@ -38,8 +38,9 @@ Instant 'who can reach this?' mapping for AWS resources. Find admin users, audit
 ## Connect With Me
 
 - 🌐 Website: [paulfrederiksen.com](https://paulfrederiksen.com)
+- 📄 Resume: [View PDF](./Paul_Frederiksen_Resume.pdf)
 - 💼 LinkedIn: [linkedin.com/in/pfrederiksen](https://linkedin.com/in/pfrederiksen)
-- 🐦 Twitter/X: [@iamdesertpaul](https://twitter.com/iamdesertpaul)
+- 🐦 Twitter/X: [@iamdesertpaul](https://x.com/iamdesertpaul)
 - 🧵 Threads: [@iamdesertpaul](https://threads.net/@iamdesertpaul)
 - 📸 Instagram: [@iamdesertpaul](https://instagram.com/iamdesertpaul)
 - 📧 Email: paul@paulfrederiksen.com
