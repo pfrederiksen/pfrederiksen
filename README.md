@@ -27,13 +27,15 @@ Interactive EC2 instance type browser with TUI and CLI. Compare specs, pricing (
 ### [aws-access-map](https://github.com/pfrederiksen/aws-access-map)
 Instant 'who can reach this?' mapping for AWS resources. Find admin users, audit IAM policies, debug permissions. 100% free, runs locally. Built with Go.
 
-## Tech Stack
+## Tech Stack & Certifications
 
 **Cloud & Security:** AWS (Certified Solutions Architect - Professional), Security Architecture, DevOps, CI/CD, AWS Managed Services
 
 **Languages & Tools:** Python, Go, Bash, Perl, Docker, Chef, Ansible, Splunk, Datadog, Linux, Windows
 
 **Focus Areas:** Strategic Alliances, Co-sell Strategy, Partner Enablement, Solution Co-Innovation, Compliance/MDR/Cybersecurity
+
+<img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect - Professional" width="100"/>
 
 ## Connect With Me
 
@@ -44,6 +46,16 @@ Instant 'who can reach this?' mapping for AWS resources. Find admin users, audit
 - 🧵 Threads: [@iamdesertpaul](https://threads.net/@iamdesertpaul)
 - 📸 Instagram: [@iamdesertpaul](https://instagram.com/iamdesertpaul)
 - 📧 Email: paul@paulfrederiksen.com
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pfrederiksen&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfrederiksen&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
 ---
 
