@@ -47,12 +47,6 @@ Instant 'who can reach this?' mapping for AWS resources. Find admin users, audit
 - 📸 Instagram: [@iamdesertpaul](https://instagram.com/iamdesertpaul)
 - 📧 Email: paul@paulfrederiksen.com
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pfrederiksen&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfrederiksen&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
 ---
 
 *Arctic Code Vault Contributor | Former US Army Intelligence Analyst | Building tools that make developers' lives easier*
