@@ -1,6 +1,6 @@
 # Hi, I'm Paul Frederiksen 👋
 
-**Global AWS Partner Technical Leader @ Splunk | Cloud Security & Strategic Partnerships | Film Photographer**
+**Global AWS Partner Technical Leader @ Splunk | AWS Community Builder | Cloud Security & Strategic Partnerships | Film Photographer**
 
 Based in Las Vegas, NV
 
@@ -36,6 +36,7 @@ Instant 'who can reach this?' mapping for AWS resources. Find admin users, audit
 **Focus Areas:** Strategic Alliances, Co-sell Strategy, Partner Enablement, Solution Co-Innovation, Compliance/MDR/Cybersecurity
 
 <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect - Professional" width="100"/>
+<img src="https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Community Builder" height="28"/>
 
 ## Connect With Me
 
@@ -49,4 +50,4 @@ Instant 'who can reach this?' mapping for AWS resources. Find admin users, audit
 
 ---
 
-*Arctic Code Vault Contributor | Former US Army Intelligence Analyst | Building tools that make developers' lives easier*
+*Arctic Code Vault Contributor | AWS Community Builder | Former US Army Intelligence Analyst | Building tools that make developers' lives easier*
