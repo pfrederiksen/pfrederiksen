@@ -1,6 +1,6 @@
 # Hi, I'm Paul Frederiksen 👋
 
-**Global AWS Partner Technical Leader @ Splunk | AWS Community Builder | Cloud Security & Strategic Partnerships | Film Photographer**
+**Global AWS Partner Technical Leader @ Splunk | AWS Community Builder | Cloud Security | Strategic Partnerships | Film Photographer**
 
 Based in Las Vegas, NV
 
@@ -16,31 +16,9 @@ When I'm not architecting cloud solutions or building partnerships, I'm behind t
 
 - **Strategic Partnerships & Alliances:** Building co-sell and GTM strategies that drive real business outcomes
 - **Cloud & Security Architecture:** Deep expertise in AWS, compliance, MDR, and cybersecurity solutions
-- **Developer Tools:** Creating practical CLI/TUI applications that make infrastructure more accessible
+- **Technical Partner Enablement:** Translating complex cloud and security requirements into repeatable field motions, demos, and reference architectures
 - **AI Tooling Security:** Building security tooling for the MCP ecosystem (OWASP MCP Top 10)
 - **Public Speaking:** Sharing knowledge on cloud, security, DevOps, and governance
-
-## Notable Projects
-
-### AWS & Cloud Security
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| [mcpsec](https://github.com/pfrederiksen/mcpsec) | OWASP MCP Top 10 security scanner for Model Context Protocol servers | Go |
-| [cloudnecromancer](https://github.com/pfrederiksen/cloudnecromancer) | Reconstruct point-in-time AWS infrastructure snapshots by replaying CloudTrail events | Go |
-| [guardduty-playbook-commons](https://github.com/pfrederiksen/guardduty-playbook-commons) | Community-maintained GuardDuty finding remediation playbooks in vendor-neutral YAML | Python |
-| [aws-access-map](https://github.com/pfrederiksen/aws-access-map) | Instant 'who can reach this?' mapping for AWS resources. Audit IAM policies, debug permissions | Go |
-| [blast-radius](https://github.com/pfrederiksen/blast-radius) | Local-first AWS dependency graph CLI to understand blast radius before changes | Go |
-| [cost-blame](https://github.com/pfrederiksen/cost-blame) | Local-first CLI to attribute AWS cost spikes to services, tags, and likely resources | Go |
-
-### Developer Tools & Utilities
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| [instancepedia](https://github.com/pfrederiksen/instancepedia) | Interactive EC2 instance type browser with TUI and CLI. Compare specs and pricing | Python |
-| [configdiff](https://github.com/pfrederiksen/configdiff) | Semantic, human-grade diffs for YAML/JSON/HCL configuration files | Go |
-| [rivian-ls](https://github.com/pfrederiksen/rivian-ls) | Production-quality TUI + headless CLI for monitoring Rivian vehicle telemetry | Go |
-| [negclone](https://github.com/pfrederiksen/negclone) | Extract grain/color fingerprints from film scans and generate Darktable + Lightroom presets | Python |
 
 ## Tech Stack & Certifications
 
@@ -65,4 +43,4 @@ When I'm not architecting cloud solutions or building partnerships, I'm behind t
 
 ---
 
-*Arctic Code Vault Contributor | AWS Community Builder | Former US Army Intelligence Analyst | Building tools that make developers' lives easier*
+*Arctic Code Vault Contributor | AWS Community Builder | Former US Army Intelligence Analyst | Cloud Security & Strategic Partnerships*
